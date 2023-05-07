@@ -1,0 +1,4 @@
+*.log
+/test_folder/
+test_folder2/test_folder
+modified_test_file2
